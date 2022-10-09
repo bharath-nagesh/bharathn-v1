@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'bharathn-v1';
+  version = '1.0.0'
 }
